@@ -1,1 +1,6 @@
+
+server.port=7979
+
 Offical Gretting ="This is a new greeting!"
+management.endpoints.web.exposure.include=*
+officalGreeting="This is the new greeting!!"
